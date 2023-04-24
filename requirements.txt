@@ -1,3 +1,4 @@
+qiskit-aer==0.12.0
 qiskit-terra[visualization]==0.23.3
 qiskit-ibm-runtime==0.9.3
 jupyter
